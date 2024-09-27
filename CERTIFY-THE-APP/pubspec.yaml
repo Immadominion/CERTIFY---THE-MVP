@@ -1,0 +1,77 @@
+name: certify
+description: "A new Flutter project."
+
+publish_to: "none" 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.6
+  intl: ^0.19.0
+  flutter_screenutil: ^5.9.0
+  image_picker: ^1.0.7
+  oktoast: ^3.4.0
+  dio: ^5.4.1
+  flutter_secure_storage: ^9.0.0
+  get_it: ^7.6.7
+  flutter_riverpod: ^2.4.10
+  flutter_svg: ^2.0.10+1
+  qr_code_scanner: ^1.0.1
+  mobile_scanner: ^4.0.0
+  pretty_qr_code: ^3.2.1
+  lottie: ^2.4.0
+  hooks_riverpod: ^2.4.10
+  awesome_dialog: ^3.1.0
+  cached_network_image: ^3.3.1
+  animated_text_kit: ^4.2.2
+  page_transition: ^2.1.0
+  animations: ^2.0.11
+  web3modal_flutter: ^3.3.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^3.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+ 
+  assets:
+    - assets/
+    - assets/animation/
+    - assets/images/
+    
+  fonts:
+    - family: Montesserat
+      fonts:
+        - asset: fonts/Montserrat-Black.ttf
+        - asset: fonts/Montserrat-BlackItalic.ttf
+        - asset: fonts/Montserrat-Bold.ttf
+        - asset: fonts/Montserrat-BoldItalic.ttf
+        - asset: fonts/Montserrat-ExtraBold.ttf
+        - asset: fonts/Montserrat-ExtraBoldItalic.ttf
+        - asset: fonts/Montserrat-ExtraLight.ttf
+        - asset: fonts/Montserrat-ExtraLightItalic.ttf
+        - asset: fonts/Montserrat-Italic.ttf
+        - asset: fonts/Montserrat-Light.ttf
+        - asset: fonts/Montserrat-LightItalic.ttf
+        - asset: fonts/Montserrat-Medium.ttf
+        - asset: fonts/Montserrat-MediumItalic.ttf
+        - asset: fonts/Montserrat-Regular.ttf
+        - asset: fonts/Montserrat-SemiBold.ttf
+        - asset: fonts/Montserrat-SemiBoldItalic.ttf
+        - asset: fonts/Montserrat-Thin.ttf
+        - asset: fonts/Montserrat-ThinItalic.ttf
