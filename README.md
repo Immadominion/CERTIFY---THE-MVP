@@ -28,6 +28,8 @@ Certify is a revolutionary app designed to combat counterfeit products and ensur
 ![Scan QR](ss/scan-qr.png)
 ![Verify Product](ss/verify-product.jpeg)
 
+Download the apk file here [https://drive.google.com/file/d/1gYEDREYV-EY-mHWyE9dYSVHWVXCI2_JX/view?usp=drive_link]
+
 ## Setup Instructions
 
 ### Prerequisites
@@ -40,7 +42,7 @@ Certify is a revolutionary app designed to combat counterfeit products and ensur
 1. **Clone the Repository**
 
    ```sh
-   git clone [Your Repository URL]
+   git clone [https://github.com/Immadominion/CERTIFY---THE-MVP.git]
    cd certify
    ```
 
